@@ -1,3 +1,5 @@
+--Tableau Link: https://public.tableau.com/app/profile/larry.hurst5967/viz/PortfolioProjectTableau4/Dashboard1
+
 --Query 1: Making sure our data is appropriate in the CovidDeaths table (used in Tableau)
 SELECT * 
 FROM PortfolioProject..CovidDeaths$
